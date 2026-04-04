@@ -10,6 +10,8 @@
 
 <p align="left">I'm a french frontend developer currently living in Guadeloupe !<br><br>I love frontend development but I actually like everything that is linked to web development : frontend, design, backend, automation, etc...<br><br>I'm really curious so I'm always open to discover and try new things, so if you have any ideas or things to talk about, do not hesitate to reach out ! I would be pleased to reply to you !</p>
 
+📄 Check my resume 👉 [my resume 🔗](https://github.com/user-attachments/files/26483462/Resume.Romain.Laurent.Frontend.Developer.pdf)
+
 ###
 
 <div align="center">
@@ -39,10 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-📄 Check my resume 👉 [my resume 🔗](https://github.com/user-attachments/files/26483462/Resume.Romain.Laurent.Frontend.Developer.pdf)
 
 ###
 
