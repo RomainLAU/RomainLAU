@@ -42,6 +42,10 @@
 
 ###
 
+📄 Check my resume 👉 [my resume 🔗](https://github.com/user-attachments/files/26483462/Resume.Romain.Laurent.Frontend.Developer.pdf)
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romainlau/romainlau/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romainlau/romainlau/output/pacman-contribution-graph.svg">
