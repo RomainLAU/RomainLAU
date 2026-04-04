@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainlau&label=Profile%20views&color=0e75b6&style=flat" alt="romainlau" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=romainlau](https://github-profile-trophy.vercel.app/?username=romainlau)" alt="romainlau" /></a> </p>
-
 - 🔭 I’m currently working on [Sofy's SaaS](https://sofy.fr/)
 
 - 👯 I’m looking to collaborate on **creative projects**
